@@ -17,8 +17,7 @@ To compose the code for the function createNode to traverse the graph below in t
 ```
 /*
 Program to traverse the graph below in the depth first fashion
-Developed by: Anbuselvan S
-RegisterNumber:  212223110003
+
 */
 /*#include<stdio.h> #include <stdlib.h>
 structnode{ int vertex;
