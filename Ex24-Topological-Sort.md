@@ -21,8 +21,7 @@ To compose the code to determine whether the topological ordering for the follow
 ```
 /*
 Program to determine whether the topological ordering for the following graph is possible or not
-Developed by: Anbuselvan S
-RegisterNumber:  212223110003
+
 */
 //#include<stdio.h>
 //#include<stdlib.h>
